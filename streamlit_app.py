@@ -10,4 +10,4 @@ def largest_num(num_1,num_2,num_3):
    else:
      largest = num_3
  return largest
-st.write("The largest number is", largest)
+st.write("The largest number is", largest_num)
